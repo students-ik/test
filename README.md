@@ -1,2 +1,2 @@
-# test is to try github fitures
+# test is to try github features
    
